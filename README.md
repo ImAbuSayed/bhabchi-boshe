@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhabchi-boshe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bhabchi Boshe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhabchi-boshe/) |
+| **Get License** | [Official Music Licensing for Bhabchi Boshe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhabchi-boshe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d323bf1638488c64f9d616473bb049519deac3fcfc432f2ffab45c8fd1bd1cd7` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

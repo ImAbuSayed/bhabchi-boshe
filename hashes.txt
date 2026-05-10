@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhabchi Boshe
+
+This log tracks the cryptographic history and versioning for the song **Bhabchi Boshe** (bhabchi-boshe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T03:49:10.314385 | `v1` | `d323bf1638488c64f9d616473bb049519deac3fcfc432f2ffab45c8fd1bd1cd7` | `6b3f483b4028a38d41da3407379d7e5d60a4bbd6bcbdd3039d76012d55f6d41f` | `2026-05-11_bhabchi-boshe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
