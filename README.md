@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhabchi-boshe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bhabchi Boshe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhabchi-boshe/) |
+| **Get License** | [Secure Licensing Rights for Bhabchi Boshe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhabchi-boshe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ভাবছি বসে ধূসর রাতে মনের গভীর ছায়ায়
+> পুড়ছে হৃদয় তোমার সেই অজানা মায়ায়
+> অন্ধকারে খুঁজছি আলো হারানো এই পথে
+> চলছি আমি একলা শুধু শূন্য মনোরথে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
